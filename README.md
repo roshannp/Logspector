@@ -42,7 +42,6 @@ python logspector.py sample_splunk_mixed.log --vtkey abc123...
 **Internal IP ranges**: `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`
 
 ## Requirements
-
 - Python 3.x
 - VirusTotal API key (free tier works, but rate-limited)
 ```
